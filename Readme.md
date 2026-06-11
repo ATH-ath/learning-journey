@@ -1,4 +1,4 @@
-   # Learning Journey
+# Learning Journey
 
  Documenting my daily coding practice as I prep for a CS degree and internships.
 
